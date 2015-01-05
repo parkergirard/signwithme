@@ -1,4 +1,4 @@
-signwithme
+Sign With Me
 =============
 
 Sign With Me helps people learn and practice American Sign Language (ASL) fingerspelling.
